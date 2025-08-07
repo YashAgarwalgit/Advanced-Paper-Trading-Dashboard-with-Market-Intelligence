@@ -578,11 +578,3 @@ class CustomChart:
 # Register with visualization framework
 viz_framework.register_chart("custom_analysis", CustomChart())
 ```
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/54763250/d38241f9-a819-44c8-bba8-bf9d8514cd1d/paste.txt
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/54763250/cfb195f6-edbe-4201-a296-44fb3037f4a8/paste-5.txt
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/54763250/85cb2389-2eed-44b4-b675-8d70c434d3d7/paste-3.txt
-[4] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/54763250/75983678-9107-47ff-9adb-343df4c8b893/paste-4.txt
-[5] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/54763250/2fd669ed-5a9f-40fd-a6b1-0f93ba15da2b/paste-2.txt
-[6] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/54763250/70010cca-0bd4-4da8-a07e-023bdbf4c853/paste-6.txt
-[7] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/54763250/26149f66-7aa7-4483-bade-5b43998f329a/paste-7.txt
