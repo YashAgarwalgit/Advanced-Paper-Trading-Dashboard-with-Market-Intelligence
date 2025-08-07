@@ -1,0 +1,337 @@
+2025-08-06 14:17:04,870 - institutional_platform - INFO - handle_system_shutdown:531 - Initiating graceful shutdown...
+2025-08-06 14:17:04,870 - institutional_platform - ERROR - _save_session_state:562 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 14:17:04,870 - institutional_platform - INFO - cleanup_resources:523 - Resource cleanup completed
+2025-08-06 14:17:04,870 - institutional_platform - INFO - handle_system_shutdown:539 - Shutdown completed
+2025-08-06 14:22:10,854 - institutional_platform - INFO - handle_system_shutdown:531 - Initiating graceful shutdown...
+2025-08-06 14:22:10,856 - institutional_platform - ERROR - _save_session_state:562 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 14:22:10,856 - institutional_platform - INFO - cleanup_resources:523 - Resource cleanup completed
+2025-08-06 14:22:10,856 - institutional_platform - INFO - handle_system_shutdown:539 - Shutdown completed
+2025-08-06 14:22:10,857 - institutional_platform - INFO - handle_system_shutdown:531 - Initiating graceful shutdown...
+2025-08-06 14:22:10,857 - institutional_platform - ERROR - _save_session_state:562 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 14:22:10,857 - institutional_platform - INFO - cleanup_resources:523 - Resource cleanup completed
+2025-08-06 14:22:10,857 - institutional_platform - INFO - handle_system_shutdown:539 - Shutdown completed
+2025-08-06 14:26:03,967 - institutional_platform - INFO - handle_system_shutdown:531 - Initiating graceful shutdown...
+2025-08-06 14:26:03,967 - institutional_platform - ERROR - _save_session_state:562 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 14:26:03,968 - institutional_platform - INFO - cleanup_resources:523 - Resource cleanup completed
+2025-08-06 14:26:03,968 - institutional_platform - INFO - handle_system_shutdown:539 - Shutdown completed
+2025-08-06 14:26:03,968 - institutional_platform - INFO - handle_system_shutdown:531 - Initiating graceful shutdown...
+2025-08-06 14:26:03,968 - institutional_platform - ERROR - _save_session_state:562 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 14:26:03,968 - institutional_platform - INFO - cleanup_resources:523 - Resource cleanup completed
+2025-08-06 14:26:03,968 - institutional_platform - INFO - handle_system_shutdown:539 - Shutdown completed
+2025-08-06 14:27:28,852 - institutional_platform - INFO - handle_system_shutdown:531 - Initiating graceful shutdown...
+2025-08-06 14:27:28,852 - institutional_platform - ERROR - _save_session_state:562 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 14:27:28,852 - institutional_platform - INFO - cleanup_resources:523 - Resource cleanup completed
+2025-08-06 14:27:28,853 - institutional_platform - INFO - handle_system_shutdown:539 - Shutdown completed
+2025-08-06 14:41:48,378 - institutional_platform - INFO - handle_system_shutdown:534 - Initiating graceful shutdown...
+2025-08-06 14:41:48,379 - institutional_platform - ERROR - _save_session_state:565 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 14:41:48,379 - institutional_platform - INFO - cleanup_resources:526 - Resource cleanup completed
+2025-08-06 14:41:48,379 - institutional_platform - INFO - handle_system_shutdown:542 - Shutdown completed
+2025-08-06 14:42:17,640 - institutional_platform - INFO - handle_system_shutdown:555 - Initiating graceful shutdown...
+2025-08-06 14:42:17,640 - institutional_platform - ERROR - _save_session_state:586 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 14:42:17,640 - institutional_platform - INFO - cleanup_resources:547 - Resource cleanup completed
+2025-08-06 14:42:17,640 - institutional_platform - INFO - handle_system_shutdown:563 - Shutdown completed
+2025-08-06 14:48:35,572 - institutional_platform - INFO - handle_system_shutdown:574 - Initiating graceful shutdown...
+2025-08-06 14:48:35,572 - institutional_platform - ERROR - _save_session_state:605 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 14:48:35,573 - institutional_platform - INFO - cleanup_resources:566 - Resource cleanup completed
+2025-08-06 14:48:35,573 - institutional_platform - INFO - handle_system_shutdown:582 - Shutdown completed
+2025-08-06 14:55:27,597 - institutional_platform - INFO - initialize_platform:131 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-06 14:55:27,597 - institutional_platform - ERROR - initialize_platform:160 - Platform initialization failed after 0.0000s: 'Config' object has no attribute 'MAX_WORKERS'
+2025-08-06 14:58:32,245 - institutional_platform - INFO - handle_system_shutdown:577 - Initiating graceful shutdown...
+2025-08-06 14:58:32,245 - institutional_platform - ERROR - _save_session_state:608 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 14:58:32,245 - institutional_platform - INFO - cleanup_resources:569 - Resource cleanup completed
+2025-08-06 14:58:32,246 - institutional_platform - INFO - handle_system_shutdown:585 - Shutdown completed
+2025-08-06 14:58:41,237 - institutional_platform - INFO - initialize_platform:131 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-06 14:58:41,239 - institutional_platform - INFO - _initialize_core_components:189 - Core components initialized
+2025-08-06 14:58:41,239 - institutional_platform - INFO - _initialize_analytics:204 - Analytics components initialized
+2025-08-06 14:58:41,240 - institutional_platform - INFO - _initialize_market_intelligence:220 - Market intelligence components initialized
+2025-08-06 14:58:41,241 - institutional_platform - INFO - _initialize_visualization:230 - Visualization components initialized
+2025-08-06 14:58:41,241 - institutional_platform - WARNING - _initialize_database:246 - Database initialization failed: 'str' object has no attribute 'db_path'
+2025-08-06 14:58:42,409 - institutional_platform - INFO - initialize_platform:155 - Platform initialization completed successfully in 1.1728s
+2025-08-06 15:27:06,946 - institutional_platform - INFO - initialize_platform:131 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-06 15:27:06,947 - institutional_platform - INFO - _initialize_core_components:189 - Core components initialized
+2025-08-06 15:27:06,947 - institutional_platform - INFO - _initialize_analytics:204 - Analytics components initialized
+2025-08-06 15:27:06,947 - institutional_platform - INFO - _initialize_market_intelligence:220 - Market intelligence components initialized
+2025-08-06 15:27:06,947 - institutional_platform - INFO - _initialize_visualization:230 - Visualization components initialized
+2025-08-06 15:27:06,947 - institutional_platform - WARNING - _initialize_database:246 - Database initialization failed: 'str' object has no attribute 'db_path'
+2025-08-06 15:27:06,950 - institutional_platform - INFO - initialize_platform:155 - Platform initialization completed successfully in 0.0040s
+2025-08-06 15:47:20,485 - institutional_platform - INFO - handle_system_shutdown:577 - Initiating graceful shutdown...
+2025-08-06 15:47:20,485 - institutional_platform - ERROR - _save_session_state:608 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 15:47:20,486 - institutional_platform - INFO - cleanup_resources:569 - Resource cleanup completed
+2025-08-06 15:47:20,486 - institutional_platform - INFO - handle_system_shutdown:585 - Shutdown completed
+2025-08-06 15:47:20,487 - institutional_platform - INFO - handle_system_shutdown:577 - Initiating graceful shutdown...
+2025-08-06 15:47:20,487 - institutional_platform - ERROR - _save_session_state:608 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 15:47:20,487 - institutional_platform - INFO - cleanup_resources:569 - Resource cleanup completed
+2025-08-06 15:47:20,487 - institutional_platform - INFO - handle_system_shutdown:585 - Shutdown completed
+2025-08-06 15:47:20,488 - institutional_platform - INFO - handle_system_shutdown:577 - Initiating graceful shutdown...
+2025-08-06 15:47:20,488 - institutional_platform - ERROR - _save_session_state:608 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 15:47:20,488 - institutional_platform - INFO - cleanup_resources:569 - Resource cleanup completed
+2025-08-06 15:47:20,488 - institutional_platform - INFO - handle_system_shutdown:585 - Shutdown completed
+2025-08-06 15:47:20,488 - institutional_platform - INFO - handle_system_shutdown:577 - Initiating graceful shutdown...
+2025-08-06 15:47:20,488 - institutional_platform - ERROR - _save_session_state:608 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 15:47:20,489 - institutional_platform - INFO - cleanup_resources:569 - Resource cleanup completed
+2025-08-06 15:47:20,489 - institutional_platform - INFO - handle_system_shutdown:585 - Shutdown completed
+2025-08-06 15:47:42,342 - institutional_platform - INFO - initialize_platform:131 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-06 15:47:42,344 - institutional_platform - INFO - _initialize_core_components:189 - Core components initialized
+2025-08-06 15:47:42,344 - institutional_platform - INFO - _initialize_analytics:204 - Analytics components initialized
+2025-08-06 15:47:42,345 - institutional_platform - INFO - _initialize_market_intelligence:220 - Market intelligence components initialized
+2025-08-06 15:47:42,345 - institutional_platform - INFO - _initialize_visualization:230 - Visualization components initialized
+2025-08-06 15:47:42,345 - institutional_platform - WARNING - _initialize_database:250 - Database initialization failed: DatabaseConnection.__init__() got an unexpected keyword argument 'db_path'
+2025-08-06 15:48:15,828 - institutional_platform - INFO - initialize_platform:155 - Platform initialization completed successfully in 33.4860s
+2025-08-06 15:48:36,183 - institutional_platform - INFO - handle_system_shutdown:594 - Initiating graceful shutdown...
+2025-08-06 15:48:36,183 - institutional_platform - ERROR - _save_session_state:625 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 15:48:36,184 - institutional_platform - INFO - cleanup_resources:586 - Resource cleanup completed
+2025-08-06 15:48:36,184 - institutional_platform - INFO - handle_system_shutdown:602 - Shutdown completed
+2025-08-06 18:40:38,338 - institutional_platform - INFO - initialize_platform:131 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-06 18:40:38,339 - institutional_platform - INFO - _initialize_core_components:189 - Core components initialized
+2025-08-06 18:40:38,340 - institutional_platform - INFO - _initialize_analytics:204 - Analytics components initialized
+2025-08-06 18:40:38,340 - institutional_platform - INFO - _initialize_market_intelligence:220 - Market intelligence components initialized
+2025-08-06 18:40:38,340 - institutional_platform - INFO - _initialize_visualization:230 - Visualization components initialized
+2025-08-06 18:40:38,341 - institutional_platform - WARNING - _initialize_database:250 - Database initialization failed: DatabaseConnection.__init__() got an unexpected keyword argument 'db_path'
+2025-08-06 18:41:10,038 - institutional_platform - INFO - initialize_platform:155 - Platform initialization completed successfully in 31.7002s
+2025-08-06 18:50:25,353 - institutional_platform - INFO - handle_system_shutdown:594 - Initiating graceful shutdown...
+2025-08-06 18:50:25,353 - institutional_platform - ERROR - _save_session_state:625 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 18:50:25,354 - institutional_platform - INFO - cleanup_resources:586 - Resource cleanup completed
+2025-08-06 18:50:25,354 - institutional_platform - INFO - handle_system_shutdown:602 - Shutdown completed
+2025-08-06 18:58:21,333 - institutional_platform - INFO - initialize_platform:131 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-06 18:58:21,334 - institutional_platform - INFO - _initialize_core_components:189 - Core components initialized
+2025-08-06 18:58:21,334 - institutional_platform - INFO - _initialize_analytics:204 - Analytics components initialized
+2025-08-06 18:58:21,335 - institutional_platform - INFO - _initialize_market_intelligence:220 - Market intelligence components initialized
+2025-08-06 18:58:21,335 - institutional_platform - INFO - _initialize_visualization:230 - Visualization components initialized
+2025-08-06 18:58:21,341 - institutional_platform - WARNING - _initialize_database:250 - Database initialization failed: DatabaseSchema.__init__() missing 1 required positional argument: 'db_connection'
+2025-08-06 18:58:23,777 - institutional_platform - INFO - _load_initial_data:352 - Loaded initial data for 5 instruments
+2025-08-06 18:58:28,241 - institutional_platform - INFO - initialize_platform:155 - Platform initialization completed successfully in 6.9087s
+2025-08-06 19:46:58,716 - institutional_platform - INFO - handle_system_shutdown:594 - Initiating graceful shutdown...
+2025-08-06 19:46:58,717 - institutional_platform - ERROR - _save_session_state:625 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 19:46:58,717 - institutional_platform - INFO - cleanup_resources:586 - Resource cleanup completed
+2025-08-06 19:46:58,717 - institutional_platform - INFO - handle_system_shutdown:602 - Shutdown completed
+2025-08-06 19:46:58,717 - institutional_platform - INFO - handle_system_shutdown:594 - Initiating graceful shutdown...
+2025-08-06 19:46:58,717 - institutional_platform - ERROR - _save_session_state:625 - Failed to save session state: 'NoneType' object has no attribute 'get'
+2025-08-06 19:46:58,719 - institutional_platform - INFO - cleanup_resources:586 - Resource cleanup completed
+2025-08-06 19:46:58,719 - institutional_platform - INFO - handle_system_shutdown:602 - Shutdown completed
+2025-08-06 19:50:57,275 - institutional_platform - INFO - initialize_platform:132 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-06 19:50:57,276 - institutional_platform - INFO - _initialize_core_components:190 - Core components initialized
+2025-08-06 19:50:57,276 - institutional_platform - INFO - _initialize_analytics:205 - Analytics components initialized
+2025-08-06 19:50:57,277 - institutional_platform - INFO - _initialize_market_intelligence:221 - Market intelligence components initialized
+2025-08-06 19:50:57,277 - institutional_platform - INFO - _initialize_visualization:231 - Visualization components initialized
+2025-08-06 19:50:57,280 - institutional_platform - WARNING - _initialize_database:251 - Database initialization failed: 'DatabaseSchema' object has no attribute 'create_tables'
+2025-08-06 19:50:59,889 - institutional_platform - INFO - _load_initial_data:351 - Loaded initial data for 5 instruments
+2025-08-06 19:51:44,161 - institutional_platform - INFO - initialize_platform:156 - Platform initialization completed successfully in 46.8864s
+2025-08-06 20:18:04,268 - institutional_platform - INFO - initialize_platform:132 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-06 20:18:04,269 - institutional_platform - INFO - _initialize_core_components:190 - Core components initialized
+2025-08-06 20:18:04,269 - institutional_platform - INFO - _initialize_analytics:205 - Analytics components initialized
+2025-08-06 20:18:04,270 - institutional_platform - INFO - _initialize_market_intelligence:221 - Market intelligence components initialized
+2025-08-06 20:18:04,270 - institutional_platform - INFO - _initialize_visualization:231 - Visualization components initialized
+2025-08-06 20:18:04,272 - institutional_platform - WARNING - _initialize_database:251 - Database initialization failed: DatabaseSchema.__init__() missing 1 required positional argument: 'db_connection'
+2025-08-06 20:18:06,972 - institutional_platform - INFO - _load_initial_data:358 - Loaded initial data for 5 instruments
+2025-08-06 20:18:06,973 - institutional_platform - INFO - _load_initial_data:386 - Fast startup completed in 1.84s
+2025-08-06 20:18:06,973 - institutional_platform - INFO - initialize_platform:156 - Platform initialization completed successfully in 2.7059s
+2025-08-07 10:49:22,891 - institutional_platform - INFO - handle_system_shutdown:654 - Initiating graceful shutdown...
+2025-08-07 10:49:22,891 - institutional_platform - INFO - _save_session_state:721 - Session state saved successfully: No active portfolio
+2025-08-07 10:49:22,891 - institutional_platform - INFO - cleanup_resources:629 - Resource cleanup completed
+2025-08-07 10:49:22,891 - institutional_platform - INFO - handle_system_shutdown:666 - Shutdown completed successfully
+2025-08-07 10:49:40,718 - institutional_platform - INFO - initialize_platform:132 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 10:49:40,721 - institutional_platform - INFO - _initialize_core_components:190 - Core components initialized
+2025-08-07 10:49:40,721 - institutional_platform - INFO - _initialize_analytics:205 - Analytics components initialized
+2025-08-07 10:49:40,721 - institutional_platform - INFO - _initialize_market_intelligence:221 - Market intelligence components initialized
+2025-08-07 10:49:40,721 - institutional_platform - INFO - _initialize_visualization:231 - Visualization components initialized
+2025-08-07 10:49:40,723 - institutional_platform - WARNING - _initialize_database:251 - Database initialization failed: DatabaseSchema.__init__() missing 1 required positional argument: 'db_connection'
+2025-08-07 10:49:45,559 - institutional_platform - INFO - _load_initial_data:358 - Loaded initial data for 5 instruments
+2025-08-07 10:49:45,560 - institutional_platform - INFO - _load_initial_data:386 - Fast startup completed in 3.80s
+2025-08-07 10:49:45,560 - institutional_platform - INFO - initialize_platform:156 - Platform initialization completed successfully in 4.8416s
+2025-08-07 10:59:01,870 - institutional_platform - INFO - handle_system_shutdown:654 - Initiating graceful shutdown...
+2025-08-07 10:59:01,870 - institutional_platform - INFO - _save_session_state:721 - Session state saved successfully: No active portfolio
+2025-08-07 10:59:01,886 - institutional_platform - INFO - cleanup_resources:629 - Resource cleanup completed
+2025-08-07 10:59:01,886 - institutional_platform - INFO - handle_system_shutdown:666 - Shutdown completed successfully
+2025-08-07 10:59:09,451 - institutional_platform - INFO - initialize_platform:132 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 10:59:09,451 - institutional_platform - INFO - _initialize_core_components:190 - Core components initialized
+2025-08-07 10:59:09,451 - institutional_platform - INFO - _initialize_analytics:205 - Analytics components initialized
+2025-08-07 10:59:09,451 - institutional_platform - INFO - _initialize_market_intelligence:221 - Market intelligence components initialized
+2025-08-07 10:59:09,451 - institutional_platform - INFO - _initialize_visualization:231 - Visualization components initialized
+2025-08-07 10:59:09,465 - institutional_platform - INFO - _initialize_database:248 - Database initialized successfully
+2025-08-07 10:59:11,733 - institutional_platform - INFO - _load_initial_data:358 - Loaded initial data for 5 instruments
+2025-08-07 10:59:11,733 - institutional_platform - INFO - _load_initial_data:386 - Fast startup completed in 1.39s
+2025-08-07 10:59:11,736 - institutional_platform - INFO - initialize_platform:156 - Platform initialization completed successfully in 2.2852s
+2025-08-07 11:00:01,773 - institutional_platform - INFO - initialize_platform:132 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 11:00:01,774 - institutional_platform - INFO - _initialize_core_components:190 - Core components initialized
+2025-08-07 11:00:01,774 - institutional_platform - INFO - _initialize_analytics:205 - Analytics components initialized
+2025-08-07 11:00:01,774 - institutional_platform - INFO - _initialize_market_intelligence:221 - Market intelligence components initialized
+2025-08-07 11:00:01,774 - institutional_platform - INFO - _initialize_visualization:231 - Visualization components initialized
+2025-08-07 11:00:01,786 - institutional_platform - INFO - _initialize_database:248 - Database initialized successfully
+2025-08-07 11:00:02,545 - institutional_platform - INFO - _load_initial_data:358 - Loaded initial data for 5 instruments
+2025-08-07 11:00:02,545 - institutional_platform - INFO - _load_initial_data:386 - Fast startup completed in 0.76s
+2025-08-07 11:00:02,545 - institutional_platform - INFO - initialize_platform:156 - Platform initialization completed successfully in 0.7713s
+2025-08-07 11:08:34,386 - institutional_platform - INFO - handle_system_shutdown:697 - Initiating graceful shutdown...
+2025-08-07 11:08:34,386 - institutional_platform - INFO - _save_session_state:764 - Session state saved successfully: No active portfolio
+2025-08-07 11:08:34,390 - institutional_platform - INFO - cleanup_resources:672 - Resource cleanup completed
+2025-08-07 11:08:34,390 - institutional_platform - INFO - handle_system_shutdown:709 - Shutdown completed successfully
+2025-08-07 11:08:34,390 - institutional_platform - INFO - handle_system_shutdown:697 - Initiating graceful shutdown...
+2025-08-07 11:08:34,390 - institutional_platform - INFO - _save_session_state:764 - Session state saved successfully: No active portfolio
+2025-08-07 11:08:34,390 - institutional_platform - INFO - cleanup_resources:672 - Resource cleanup completed
+2025-08-07 11:08:34,390 - institutional_platform - INFO - handle_system_shutdown:709 - Shutdown completed successfully
+2025-08-07 11:08:34,390 - institutional_platform - INFO - handle_system_shutdown:697 - Initiating graceful shutdown...
+2025-08-07 11:08:34,390 - institutional_platform - INFO - _save_session_state:764 - Session state saved successfully: No active portfolio
+2025-08-07 11:08:34,390 - institutional_platform - INFO - cleanup_resources:672 - Resource cleanup completed
+2025-08-07 11:08:34,390 - institutional_platform - INFO - handle_system_shutdown:709 - Shutdown completed successfully
+2025-08-07 11:08:41,446 - institutional_platform - INFO - initialize_platform:133 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 11:08:41,447 - institutional_platform - INFO - _initialize_core_components:191 - Core components initialized
+2025-08-07 11:08:41,447 - institutional_platform - INFO - _initialize_analytics:206 - Analytics components initialized
+2025-08-07 11:08:41,447 - institutional_platform - INFO - _initialize_market_intelligence:222 - Market intelligence components initialized
+2025-08-07 11:08:41,447 - institutional_platform - INFO - _initialize_visualization:232 - Visualization components initialized
+2025-08-07 11:08:41,456 - institutional_platform - INFO - _initialize_database:249 - Database initialized successfully
+2025-08-07 11:08:42,324 - institutional_platform - INFO - _load_initial_data:359 - Live data fetch attempt 1/5
+2025-08-07 11:08:43,874 - institutional_platform - WARNING - _validate_live_data:425 - Price validation failed for ^GSPC: 6345.06005859375
+2025-08-07 11:08:43,875 - institutional_platform - WARNING - _load_initial_data:380 - Data validation failed on attempt 1
+2025-08-07 11:08:43,875 - institutional_platform - INFO - _load_initial_data:385 - Retrying in 1 seconds...
+2025-08-07 11:08:44,877 - institutional_platform - INFO - _load_initial_data:359 - Live data fetch attempt 2/5
+2025-08-07 11:08:45,604 - institutional_platform - WARNING - _validate_live_data:425 - Price validation failed for ^GSPC: 6345.06005859375
+2025-08-07 11:08:45,604 - institutional_platform - WARNING - _load_initial_data:380 - Data validation failed on attempt 2
+2025-08-07 11:08:45,604 - institutional_platform - INFO - _load_initial_data:385 - Retrying in 2 seconds...
+2025-08-07 11:08:47,598 - institutional_platform - INFO - _load_initial_data:359 - Live data fetch attempt 3/5
+2025-08-07 11:08:48,322 - institutional_platform - WARNING - _validate_live_data:425 - Price validation failed for ^GSPC: 6345.06005859375
+2025-08-07 11:08:48,322 - institutional_platform - WARNING - _load_initial_data:380 - Data validation failed on attempt 3
+2025-08-07 11:08:48,322 - institutional_platform - INFO - _load_initial_data:385 - Retrying in 4 seconds...
+2025-08-07 11:08:52,323 - institutional_platform - INFO - _load_initial_data:359 - Live data fetch attempt 4/5
+2025-08-07 11:08:53,146 - institutional_platform - WARNING - _validate_live_data:425 - Price validation failed for ^GSPC: 6345.06005859375
+2025-08-07 11:08:53,146 - institutional_platform - WARNING - _load_initial_data:380 - Data validation failed on attempt 4
+2025-08-07 11:08:53,146 - institutional_platform - INFO - _load_initial_data:385 - Retrying in 8 seconds...
+2025-08-07 11:09:01,144 - institutional_platform - INFO - _load_initial_data:359 - Live data fetch attempt 5/5
+2025-08-07 11:09:01,910 - institutional_platform - WARNING - _validate_live_data:425 - Price validation failed for ^GSPC: 6345.06005859375
+2025-08-07 11:09:01,910 - institutional_platform - WARNING - _load_initial_data:380 - Data validation failed on attempt 5
+2025-08-07 11:09:25,891 - institutional_platform - INFO - _load_initial_data:405 - Live-only data loading completed in 43.57s
+2025-08-07 11:09:25,891 - institutional_platform - INFO - initialize_platform:157 - Platform initialization completed successfully in 44.4454s
+2025-08-07 11:10:29,544 - institutional_platform - INFO - initialize_platform:133 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 11:10:29,544 - institutional_platform - INFO - _initialize_core_components:191 - Core components initialized
+2025-08-07 11:10:29,544 - institutional_platform - INFO - _initialize_analytics:206 - Analytics components initialized
+2025-08-07 11:10:29,544 - institutional_platform - INFO - _initialize_market_intelligence:222 - Market intelligence components initialized
+2025-08-07 11:10:29,544 - institutional_platform - INFO - _initialize_visualization:232 - Visualization components initialized
+2025-08-07 11:10:29,582 - institutional_platform - INFO - _initialize_database:249 - Database initialized successfully
+2025-08-07 11:10:30,488 - institutional_platform - INFO - _load_initial_data:359 - Live data fetch attempt 1/5
+2025-08-07 11:10:48,296 - institutional_platform - INFO - _load_initial_data:405 - Live-only data loading completed in 17.81s
+2025-08-07 11:10:48,296 - institutional_platform - INFO - initialize_platform:157 - Platform initialization completed successfully in 18.7517s
+2025-08-07 11:41:00,695 - institutional_platform - INFO - initialize_platform:133 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 11:41:00,700 - institutional_platform - INFO - _initialize_core_components:191 - Core components initialized
+2025-08-07 11:41:00,700 - institutional_platform - INFO - _initialize_analytics:206 - Analytics components initialized
+2025-08-07 11:41:00,700 - institutional_platform - INFO - _initialize_market_intelligence:222 - Market intelligence components initialized
+2025-08-07 11:41:00,700 - institutional_platform - INFO - _initialize_visualization:232 - Visualization components initialized
+2025-08-07 11:41:00,721 - institutional_platform - INFO - _initialize_database:249 - Database initialized successfully
+2025-08-07 11:41:01,622 - institutional_platform - INFO - _load_initial_data:358 - Attempting live data fetch (attempt 1/3)
+2025-08-07 11:41:02,947 - institutional_platform - WARNING - _validate_real_data:422 - Price validation failed for ^GSPC: 6345.06005859375
+2025-08-07 11:41:02,947 - institutional_platform - WARNING - _load_initial_data:374 - Live data attempt 1 failed
+2025-08-07 11:41:03,957 - institutional_platform - INFO - _load_initial_data:358 - Attempting live data fetch (attempt 2/3)
+2025-08-07 11:41:04,801 - institutional_platform - WARNING - _validate_real_data:422 - Price validation failed for ^GSPC: 6345.06005859375
+2025-08-07 11:41:04,802 - institutional_platform - WARNING - _load_initial_data:374 - Live data attempt 2 failed
+2025-08-07 11:41:06,829 - institutional_platform - INFO - _load_initial_data:358 - Attempting live data fetch (attempt 3/3)
+2025-08-07 11:41:07,627 - institutional_platform - WARNING - _validate_real_data:422 - Price validation failed for ^GSPC: 6345.06005859375
+2025-08-07 11:41:07,627 - institutional_platform - WARNING - _load_initial_data:374 - Live data attempt 3 failed
+2025-08-07 11:41:07,627 - institutional_platform - ERROR - _load_initial_data:389 - CRITICAL: Real-time data loading failed: CRITICAL: All live data sources failed
+2025-08-07 11:41:21,576 - institutional_platform - INFO - handle_system_shutdown:784 - Initiating graceful shutdown...
+2025-08-07 11:41:21,592 - institutional_platform - INFO - _save_session_state:851 - Session state saved successfully: No active portfolio
+2025-08-07 11:41:21,598 - institutional_platform - INFO - cleanup_resources:759 - Resource cleanup completed
+2025-08-07 11:41:21,598 - institutional_platform - INFO - handle_system_shutdown:796 - Shutdown completed successfully
+2025-08-07 11:42:10,435 - institutional_platform - INFO - initialize_platform:133 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 11:42:10,435 - institutional_platform - INFO - _initialize_core_components:191 - Core components initialized
+2025-08-07 11:42:10,435 - institutional_platform - INFO - _initialize_analytics:206 - Analytics components initialized
+2025-08-07 11:42:10,435 - institutional_platform - INFO - _initialize_market_intelligence:222 - Market intelligence components initialized
+2025-08-07 11:42:10,435 - institutional_platform - INFO - _initialize_visualization:232 - Visualization components initialized
+2025-08-07 11:42:10,435 - institutional_platform - INFO - _initialize_database:249 - Database initialized successfully
+2025-08-07 11:42:11,357 - institutional_platform - INFO - _load_initial_data:358 - Attempting live data fetch (attempt 1/3)
+2025-08-07 11:42:12,848 - institutional_platform - INFO - _load_initial_data:371 - SUCCESS: Live data loaded for 7 instruments
+2025-08-07 11:42:41,469 - institutional_platform - ERROR - _load_initial_data:389 - CRITICAL: Real-time data loading failed: Market intelligence timeout
+2025-08-07 13:44:28,021 - institutional_platform - INFO - initialize_platform:133 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 13:44:28,021 - institutional_platform - INFO - _initialize_core_components:191 - Core components initialized
+2025-08-07 13:44:28,021 - institutional_platform - INFO - _initialize_analytics:206 - Analytics components initialized
+2025-08-07 13:44:28,023 - institutional_platform - INFO - _initialize_market_intelligence:218 - Enhanced market intelligence system initialized
+2025-08-07 13:44:28,024 - institutional_platform - INFO - _initialize_visualization:229 - Visualization components initialized
+2025-08-07 13:44:28,046 - institutional_platform - INFO - _initialize_database:246 - Database initialized successfully
+2025-08-07 13:44:28,092 - institutional_platform - INFO - _load_initial_data:355 - Attempting live data fetch (attempt 1/2)
+2025-08-07 13:44:29,645 - institutional_platform - ERROR - _load_initial_data:388 - CRITICAL: Real-time data loading failed: 'InstitutionalTradingPlatform' object has no attribute '_validate_real_data'
+2025-08-07 13:46:05,570 - institutional_platform - INFO - initialize_platform:133 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 13:46:05,571 - institutional_platform - INFO - _initialize_core_components:191 - Core components initialized
+2025-08-07 13:46:05,571 - institutional_platform - INFO - _initialize_analytics:206 - Analytics components initialized
+2025-08-07 13:46:05,571 - institutional_platform - INFO - _initialize_market_intelligence:218 - Enhanced market intelligence system initialized
+2025-08-07 13:46:05,572 - institutional_platform - INFO - _initialize_visualization:229 - Visualization components initialized
+2025-08-07 13:46:05,582 - institutional_platform - INFO - _initialize_database:246 - Database initialized successfully
+2025-08-07 13:46:05,583 - institutional_platform - INFO - _load_initial_data:355 - Attempting live data fetch (attempt 1/2)
+2025-08-07 13:46:06,356 - institutional_platform - INFO - _load_initial_data:369 - SUCCESS: Live data loaded for 7 instruments
+2025-08-07 13:46:06,357 - institutional_platform - INFO - _load_initial_data:355 - Attempting live data fetch (attempt 2/2)
+2025-08-07 13:46:07,168 - institutional_platform - INFO - _load_initial_data:369 - SUCCESS: Live data loaded for 7 instruments
+2025-08-07 13:46:07,169 - institutional_platform - ERROR - _load_initial_data:383 - CRITICAL: Real-time data loading failed: CRITICAL: All live data sources failed
+2025-08-07 13:49:52,351 - institutional_platform - INFO - initialize_platform:132 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 13:49:52,352 - institutional_platform - INFO - _initialize_core_components:190 - Core components initialized
+2025-08-07 13:49:52,353 - institutional_platform - INFO - _initialize_analytics:205 - Analytics components initialized
+2025-08-07 13:49:52,359 - institutional_platform - INFO - _initialize_market_intelligence:217 - Enhanced market intelligence system initialized
+2025-08-07 13:49:52,359 - institutional_platform - INFO - _initialize_visualization:228 - Visualization components initialized
+2025-08-07 13:49:52,370 - institutional_platform - INFO - _initialize_database:245 - Database initialized successfully
+2025-08-07 13:49:52,372 - institutional_platform - INFO - _load_initial_data:354 - Attempting live data fetch (attempt 1/2)
+2025-08-07 13:49:52,782 - institutional_platform - INFO - _validate_real_data:516 - Market data validation successful: 7 instruments validated
+2025-08-07 13:49:52,782 - institutional_platform - INFO - _load_initial_data:369 - SUCCESS: Live data loaded for 7 instruments
+2025-08-07 13:49:53,132 - institutional_platform - INFO - _load_initial_data:384 - Real-time data initialization completed in 0.76s
+2025-08-07 13:49:53,134 - institutional_platform - INFO - initialize_platform:156 - Platform initialization completed successfully in 0.7829s
+2025-08-07 14:37:28,017 - institutional_platform - INFO - handle_system_shutdown:918 - Initiating graceful shutdown...
+2025-08-07 14:37:28,018 - institutional_platform - INFO - _save_session_state:985 - Session state saved successfully: No active portfolio
+2025-08-07 14:37:28,021 - institutional_platform - INFO - cleanup_resources:893 - Resource cleanup completed
+2025-08-07 14:37:28,021 - institutional_platform - INFO - handle_system_shutdown:930 - Shutdown completed successfully
+2025-08-07 14:37:28,021 - institutional_platform - INFO - handle_system_shutdown:784 - Initiating graceful shutdown...
+2025-08-07 14:37:28,022 - institutional_platform - INFO - _save_session_state:851 - Session state saved successfully: No active portfolio
+2025-08-07 14:37:28,024 - institutional_platform - INFO - cleanup_resources:759 - Resource cleanup completed
+2025-08-07 14:37:28,024 - institutional_platform - INFO - handle_system_shutdown:796 - Shutdown completed successfully
+2025-08-07 14:37:28,024 - institutional_platform - INFO - handle_system_shutdown:789 - Initiating graceful shutdown...
+2025-08-07 14:37:28,025 - institutional_platform - INFO - _save_session_state:856 - Session state saved successfully: No active portfolio
+2025-08-07 14:37:28,030 - institutional_platform - INFO - cleanup_resources:764 - Resource cleanup completed
+2025-08-07 14:37:28,030 - institutional_platform - INFO - handle_system_shutdown:801 - Shutdown completed successfully
+2025-08-07 15:22:45,191 - institutional_platform - INFO - initialize_platform:132 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 15:22:45,191 - institutional_platform - INFO - _initialize_core_components:190 - Core components initialized
+2025-08-07 15:22:45,191 - institutional_platform - INFO - _initialize_analytics:205 - Analytics components initialized
+2025-08-07 15:22:45,199 - institutional_platform - ERROR - initialize_platform:161 - Platform initialization failed after 0.0092s: name 'lru_cache' is not defined
+2025-08-07 15:22:49,255 - institutional_platform - INFO - initialize_platform:132 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 15:22:49,256 - institutional_platform - INFO - _initialize_core_components:190 - Core components initialized
+2025-08-07 15:22:49,256 - institutional_platform - INFO - _initialize_analytics:205 - Analytics components initialized
+2025-08-07 15:22:49,259 - institutional_platform - ERROR - initialize_platform:161 - Platform initialization failed after 0.0045s: name 'lru_cache' is not defined
+2025-08-07 15:24:47,345 - institutional_platform - INFO - initialize_platform:132 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 15:24:47,347 - institutional_platform - INFO - _initialize_core_components:190 - Core components initialized
+2025-08-07 15:24:47,347 - institutional_platform - INFO - _initialize_analytics:205 - Analytics components initialized
+2025-08-07 15:24:47,348 - institutional_platform - ERROR - initialize_platform:161 - Platform initialization failed after 0.0030s: name 'lru_cache' is not defined
+2025-08-07 15:28:05,516 - institutional_platform - INFO - initialize_platform:132 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 15:28:05,517 - institutional_platform - INFO - _initialize_core_components:190 - Core components initialized
+2025-08-07 15:28:05,517 - institutional_platform - INFO - _initialize_analytics:205 - Analytics components initialized
+2025-08-07 15:28:05,527 - institutional_platform - ERROR - initialize_platform:161 - Platform initialization failed after 0.0109s: name 'st' is not defined
+2025-08-07 15:30:53,585 - institutional_platform - INFO - initialize_platform:132 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 15:30:53,586 - institutional_platform - INFO - _initialize_core_components:190 - Core components initialized
+2025-08-07 15:30:53,586 - institutional_platform - INFO - _initialize_analytics:205 - Analytics components initialized
+2025-08-07 15:30:53,599 - institutional_platform - INFO - _initialize_market_intelligence:217 - Enhanced market intelligence system initialized
+2025-08-07 15:30:53,599 - institutional_platform - INFO - _initialize_visualization:228 - Visualization components initialized
+2025-08-07 15:30:53,606 - institutional_platform - INFO - _initialize_database:245 - Database initialized successfully
+2025-08-07 15:30:53,645 - institutional_platform - INFO - _load_initial_data:354 - Attempting live data fetch (attempt 1/2)
+2025-08-07 15:30:57,110 - institutional_platform - INFO - _validate_real_data:513 - Market data received outside trading hours - may be pre-market or after-hours
+2025-08-07 15:30:57,110 - institutional_platform - INFO - _validate_real_data:516 - Market data validation successful: 7 instruments validated
+2025-08-07 15:30:57,110 - institutional_platform - INFO - _load_initial_data:369 - SUCCESS: Live data loaded for 7 instruments
+2025-08-07 15:30:57,420 - institutional_platform - INFO - _load_initial_data:384 - Real-time data initialization completed in 3.77s
+2025-08-07 15:30:57,424 - institutional_platform - INFO - initialize_platform:156 - Platform initialization completed successfully in 3.8389s
+2025-08-07 15:39:43,302 - institutional_platform - INFO - initialize_platform:132 - Initializing Enhanced Institutional Trading Platform V5.0
+2025-08-07 15:39:43,303 - institutional_platform - INFO - _initialize_core_components:190 - Core components initialized
+2025-08-07 15:39:43,303 - institutional_platform - INFO - _initialize_analytics:205 - Analytics components initialized
+2025-08-07 15:39:43,311 - institutional_platform - INFO - _initialize_market_intelligence:217 - Enhanced market intelligence system initialized
+2025-08-07 15:39:43,311 - institutional_platform - INFO - _initialize_visualization:228 - Visualization components initialized
+2025-08-07 15:39:43,312 - institutional_platform - INFO - _initialize_database:245 - Database initialized successfully
+2025-08-07 15:39:43,313 - institutional_platform - INFO - _load_initial_data:354 - Attempting live data fetch (attempt 1/2)
+2025-08-07 15:39:44,111 - institutional_platform - INFO - _validate_real_data:513 - Market data received outside trading hours - may be pre-market or after-hours
+2025-08-07 15:39:44,114 - institutional_platform - INFO - _validate_real_data:516 - Market data validation successful: 7 instruments validated
+2025-08-07 15:39:44,114 - institutional_platform - INFO - _load_initial_data:369 - SUCCESS: Live data loaded for 7 instruments
+2025-08-07 15:39:44,374 - institutional_platform - INFO - _load_initial_data:384 - Real-time data initialization completed in 1.06s
+2025-08-07 15:39:44,374 - institutional_platform - INFO - initialize_platform:156 - Platform initialization completed successfully in 1.0721s
+2025-08-07 19:29:43,903 - institutional_platform - INFO - handle_system_shutdown:918 - Initiating graceful shutdown...
+2025-08-07 19:29:43,908 - institutional_platform - INFO - _save_session_state:985 - Session state saved successfully: No active portfolio
+2025-08-07 19:29:43,915 - institutional_platform - INFO - cleanup_resources:893 - Resource cleanup completed
+2025-08-07 19:29:43,916 - institutional_platform - INFO - handle_system_shutdown:930 - Shutdown completed successfully
+2025-08-07 19:29:43,916 - institutional_platform - INFO - handle_system_shutdown:918 - Initiating graceful shutdown...
+2025-08-07 19:29:43,917 - institutional_platform - INFO - _save_session_state:985 - Session state saved successfully: No active portfolio
+2025-08-07 19:29:43,922 - institutional_platform - INFO - cleanup_resources:893 - Resource cleanup completed
+2025-08-07 19:29:43,924 - institutional_platform - INFO - handle_system_shutdown:930 - Shutdown completed successfully
+2025-08-07 19:29:43,924 - institutional_platform - INFO - handle_system_shutdown:918 - Initiating graceful shutdown...
+2025-08-07 19:29:43,925 - institutional_platform - INFO - _save_session_state:985 - Session state saved successfully: No active portfolio
+2025-08-07 19:29:43,926 - institutional_platform - INFO - cleanup_resources:893 - Resource cleanup completed
+2025-08-07 19:29:43,926 - institutional_platform - INFO - handle_system_shutdown:930 - Shutdown completed successfully
+2025-08-07 19:29:43,926 - institutional_platform - INFO - handle_system_shutdown:918 - Initiating graceful shutdown...
+2025-08-07 19:29:43,927 - institutional_platform - INFO - _save_session_state:985 - Session state saved successfully: No active portfolio
+2025-08-07 19:29:43,928 - institutional_platform - INFO - cleanup_resources:893 - Resource cleanup completed
+2025-08-07 19:29:43,928 - institutional_platform - INFO - handle_system_shutdown:930 - Shutdown completed successfully
